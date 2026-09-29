@@ -8,4 +8,4 @@ Estudante de **Tecnologia da Informação**, interessada em desenvolvimento, tec
 
 ### Meu currículo
 
-**[ Acessar meu currículo em PDF](./document.pdf)**
+**[ Acessar meu currículo em PDF](./document(2).pdf)**
