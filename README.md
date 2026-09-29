@@ -8,4 +8,4 @@ Estudante de **Tecnologia da Informação**, interessada em desenvolvimento, tec
 
 ### Meu currículo
 
-**[ Acessar meu currículo em PDF](./document(2).pdf)**
+**[ Acessar meu currículo em PDF]([./document(2).pdf](https://github.com/ariannemorais50-collab/Curriculo-Anne/blob/main/document%20(2).PDF))**
