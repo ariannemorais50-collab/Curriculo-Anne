@@ -6,4 +6,4 @@ Sou estudante de **Tecnologia da Informação**, interessada em tecnologia, dese
 
 ### Meu currículo
 
-**[ Acessar meu currículo em PDF](./document%20%282%29.PDF)**
+**[ Acessar meu currículo em PDF] https://canva.link/yrekr5cqcosvwoj**
