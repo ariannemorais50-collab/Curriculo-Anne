@@ -1,5 +1,3 @@
-## Currículo — Anne
-
 Olá! Meu nome é **Anne** e este repositório contém meu currículo profissional.
 
 ### Sobre mim
